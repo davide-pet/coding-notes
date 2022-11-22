@@ -1,0 +1,378 @@
+
+0. NEXT IN PIPELINE
+---------------------------
+   
+   - write for hair implant
+   - inps
+
+   - Study tesla new stuff and elon musk reports
+   - study Nvidia x stock investment
+   - study open ai
+   - study google ai
+   - study ai startups
+
+   - python tools bash, git, github, ides
+   - sql 
+   - regex
+   - python documentation
+   - complete backend api with python
+
+   - list of books on ai and machine learning
+   - listo f cyberpunk and virtual worlds books
+   - list of resources, youtube and blogs on ai and machine learning
+   - difference between machine learning and ai
+
+   - twitter list and map to follow
+   - koby briant documentary on netflix
+
+
+1. PROGRAMMING
+---------------------------
+
+   Topics & Skills 
+
+      Beginner:
+         ✓ variables
+         ✓ Conditions and chained conditionals
+         ✓ operators
+         ✓ If / else
+         ✓ Loops
+         ✓ Basic Data structures (list, dicts, strings, sets, tuples, )
+         ✓ Functions
+         ✓ Mutable vs Immutable
+         ✓ Common Methods
+         ✓ File Input and output
+
+      intermediate
+         ✓ Object Oriented Programming
+         ✓ Data Structures and Algorithms
+         ✓ Comprehensions
+         ✓ lambda, Map and Filter 
+         ✓ PIP, Modules and Packages
+         ✓ Args and kwargs
+         ✓ Async io 
+         - python tools git, github, ides
+         - Sql
+         - Regex
+         - Bash & Command line
+      
+      Modules
+         ✓ math
+         ✓ statistics
+         - datetime / Pendulum
+         ✓ os / Pathlib
+         ✓ random
+         ✓ urllib / request
+         - pytest
+
+
+      Expert
+         ✓ Decorators
+         ✓ Generators 
+         ✓ Context Managers 
+         ✓ Concurrency vs Parallelism (locks and multithreading)
+         ✓ UNit Testing 
+         - Cython
+
+      Master
+         - Pthon working under the hood, compilers and interpreters
+         - how computers works + cpu vs gpu
+         - how internet works
+         - system design
+         - sotware design
+         - Machine Learning and AI
+         - metaverse
+         - Data Science
+         - Software and web development
+         - Apis 
+         - cloud vs edge vs on prem deployment
+         
+   Resources
+
+      Python
+         ✓ Programming Expert
+         ✓ CS50 
+         ✓ CS50P
+         ✓ Free code camp
+         - tech with tim
+         - corey shafer
+         - Real Python
+         
+
+      Data Structures & algo
+         ✓ Algo expert data structures & algorithms
+         ✓ free code bootcamp yt: study data structyres in 8 hours https://www.youtube.com/watch?v=RBSGKlAvoiM&t=23202s / https://www.youtube.com/watch?v=pkYVOmU3MgA
+
+      SQL
+         - Study SQL databases https://www.youtube.com/watch?v=HXV3zeQKqGY
+         - SQLite Databases With Python - Full Course https://www.youtube.com/watch?v=byHcYRpMgI4&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&index=20
+
+      Regex
+         - 
+
+      set up, os, ides, Git & Github
+         - https://www.youtube.com/c/SigmaCoding/videos
+
+      Apis
+         - 
+
+      front end engineering
+         -
+
+      back end engineering
+         - 
+
+      It, hacking and cybersecurity
+         - Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=5&t=24374s
+
+
+
+2.A DATA SCIENCE
+---------------------------
+
+   Topics & skills
+      ✓ numpy
+      ✓ Pandas
+      ✓ Matplotlib
+      ✓ Seaborn
+      ✓ Anaconda
+      ✓ stories, actionable insights, goals
+
+   Resources
+      ✓ numpy documentation https://numpy.org/
+      ✓ Pandas documentation https://pandas.pydata.org/docs/index.html
+      ✓ jupyter https://docs.jupyter.org/en/latest/
+      - kaggle 
+ 
+      ✓ free code bootcamp: data analysis with python https://www.freecodecamp.org/learn/data-analysis-with-python/
+      ✓ free code bootcamp yt: data science with python https://www.youtube.com/watch?v=LHBE6Q9XlzI
+      ✓ 2 jovian: study data science with python https://www.youtube.com/watch?v=GPVsHOlRBBI
+      ✓ 3 Nicholas Renault: data science with python https://www.youtube.com/watch?v=yGN28LY5VuA
+      ✓ Learn Data Science Tutorial - Full Course for Beginners https://www.youtube.com/watch?v=ua-CiDNNj30
+      - free code bootcamp yt: data science 12 projects https://www.youtube.com/watch?v=JwSS70SZdyM
+      
+      build database for bowlpros with api integration and automatic reporting
+
+
+
+
+2. MACHINE LEARNING AND AI
+---------------------------
+
+   Topics & Skills
+      
+      ✓ introduction and fundamentals to machine learning and ai
+      ✓ path to create applications and products  
+      ✓ path to learn ai
+      
+      ✓ Supervised learning 
+         ✓ linear regression
+         ✓ logistic regression
+         ✓ Multiclass - softmax regression
+         ✓ Normalization / Feature scaling
+         ✓ Regularization 
+         ✓ vectorization
+         ✓ ml diagnostics, bias, variance, error analysis
+
+      ✓ neural networks
+
+      ✓ unsupervised learning
+         ✓ k-means / clustering
+         ✓ anomaly detection
+         ✓ collaborative filtering recommendation systems
+         ✓ content based recommendation systems
+         ✓ reinforcement learning
+
+
+      - tensorflow
+
+
+      - Math
+         - linear algebra
+         - calculus
+         - sickit learn
+      
+
+   Resources
+
+      Deeplearning Ai
+      ✓ Cousera: AI for everyone https://www.coursera.org/learn/ai-for-everyone
+      ✓ Coursera: Machine learning and advanced algorithms
+
+      - arxiv
+      
+      Tensorflow
+      https://www.tensorflow.org/resources/learn-ml
+
+
+      Google
+      https://developers.google.com/machine-learning/advanced-courses
+
+      Kaggle
+      - study machine learning crush course
+      - study machinle learning large scale    
+
+
+
+      - free code bootcamp yt: study computer networking https://www.youtube.com/watch?v=qiQR5rTSshw
+
+      EDX Harvard
+      - EDX study introduction to ai with python https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python?index=product&queryID=6caaac0dc127c87bd2ca408d5c20d832&position=9
+      - EDX study data science: machine learning https://www.edx.org/course/data-science-machine-learning?index=product&queryID=6caaac0dc127c87bd2ca408d5c20d832&position=21
+      
+
+      
+
+
+
+
+
+3. COMPANY BUILDING
+---------------------------------------------------------
+
+   AI Field understanding Topics & skills
+
+      - Ai startups (public stocks, us/eu startups, it startups)
+      - Robotics startups
+      - ai communty map and participation
+      
+
+      - Lex Friedman
+      - view YT tesla ai day 
+      - view YT neuralink launch event
+      - view musk interview with the babylon bee
+      - view cyber rodeo at tesla
+
+      books
+         - Superintelligence
+         - Our final invention
+         - Life 3.0
+
+   Virtual Worlds field understanding & skills
+      
+      - web3, metaverse & blockchain
+      - web3 and metaverse community map and participation
+      
+   Future exploration, Science fiction, philosophy 
+
+      ✓ neuromance
+      ✓ Hitchikers guide to the galaxy
+      ✓ the foundation I
+      ✓ Foundation and empire
+      ✓ second foundation
+      ✓ snow crash
+      
+      ✓ homo deus
+      ✓ Where is everybody?
+
+      ✓ Meditations marcus aurelius
+      ✓ on the shortness of life  seneca
+      ✓ Man’s search for meaning
+      ✓ Wait What? and life's other essential questions
+
+   Company building and principles
+
+      ✓ Elon Musk - Tesla, spaceX, neuralink, openAI | book | interviews
+      ✓ Steve Jobs - Apple | book | interviews 
+      ✓ Jeff Bezos - Amazon | book | letters to shareholders | interviews
+      ✓ Larry, Sergey, Eric - Google | book | interviews 
+      - Nvidia
+      ✓ Peter Thiel - Funders Fund | zero to one | interviews
+      ✓ Reid Hasting - Netflix | Netflix culture manifesto | book
+      ✓ Tobias Lotke - Shopify | interviews
+      - Collison - Stripe | interviews
+      ✓ brian chesky - Airbnb, book 
+      ✓ Augusto Marietti, Marco Palladino - Kong | interviews on silicon valley Dojo
+      - Amando biondi / Massimo Chieruzzi - Breadcrumbs | interviews on silicon valley dojo
+      - Marc Andressen, Ben Horowitz - a16z | ebook Marc | book Ben
+
+      ✓ Silicon valley dojo
+      ✓ Steve blank, eric ries, business model canva
+      ✓ Ycombinator - School | YT channel | resources
+      ✓ Paul Graham - blog | interviews | founder's at work
+      ✓ Sam Altman - blog | interviews
+      ✓ Reid hoffmann - Blitzscaling book | Blitzscaling course
+      
+      ✓ customer development steve blank
+      ✓ business model canva
+      ✓ Lean startup, eric ries
+      ✓ Lean thinking 
+      ✓ continuous improvement
+      ✓ Agile development
+      ✓ Blitzscaling
+
+      ✓ Hacking Growth, high growth handbook
+      - sell experiences and solutions. we don't sell saddles here
+      ✓ The flywheel
+      ✓ customer centricity / insane user experience
+      ✓ building a monopoly, zero to one
+
+      ✓ How to go to silicon valley
+      ✓ Geography of sv 
+      ✓ history of sv
+      ✓ how to create a c-corp 
+      ✓ how to get a visa 
+
+      Fundraising and vc
+         ✓ how to make a pitch 
+         ✓ how to make a onepager
+         ✓ networking, pitching and meetings
+         ✓ develop a foundraising strategy
+         ✓ how vc works: 
+         ✓ valuation
+         ✓ safe
+         ✓ data room
+         ✓ investor update
+         ✓ cap table
+         ✓ the onion strategy
+
+         ✓ how to network / lines not dots
+         - people to follow on twitter
+
+         books
+         - The cold start problem
+         - Secrets of sand hill Road 
+         - The power law 
+         - Silicio 
+         - Super founders
+      
+   Thinking, working and guiding 
+
+      ✓ first principles thinking
+      ✓ input-output-step_by_step_solution approach
+      ✓ the scientific method of Hp, test, analyze and improve
+      ✓ system thinking and mapping
+      ✓ rooftop improvement and moonshots projects
+      ✓ cause-effect relationship, root cause
+      ✓ correlation
+      ✓ logic and reason in decision making
+      ✓ find leverage and synergies
+      ✓ scalability engineering 
+      ✓ go straight to the point: how to double the impact? how to half the time?
+      ✓ use feedback loops
+      ✓ compounding
+
+      ✓ to dos 
+      ✓ time blocking
+      ✓ batching
+      ✓ Deep work
+      ✓ deliberate practice: So good they can't ignore you / Outliers / Peak
+      ✓ maker's vs manager schedule
+      ✓ checklist
+      ✓ cutting: essentialism / Rework
+      ✓ building habits 
+      ✓ the great mental models
+   
+      ✓ standard of performance the score takes care of itself
+      ✓ Start with why / leader eat last
+      ✓ how to learn and deep dive effectively
+
+
+
+
+
+
+
+
+
+
