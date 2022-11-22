@@ -1,0 +1,394 @@
+
+
+A - FIELDS and IDEAS 
+--------------------------
+
+    - digital automation
+    - manual automation Robotics
+    - Virtual worlds / train automation and ai
+    - data products
+    - open source
+    - open worlds
+
+    - an asmr brand 
+    - a food experience platform
+
+
+    - a google with generative ai reports and final results instead of search results.
+        built like librarian of moon crash
+        a fully knowldge database of unstructured data assistant
+        built on specific topics and custom designed to build the company specific knowledge brain assistant
+
+
+
+
+B - PRINCIPLES
+---------------------------
+
+    Foundational Principles
+
+        1. love and excitement for Exploration, the unknown, the adventure, the new, the pioneering, 
+           inspiring future, futuristic things and technologies
+        2. mission-ideology-meaning driven, expand scope and scale of human consciousness
+        3. Think really big, civilization scale, increasing the odds of a great future
+        4. solve real and big problems, do useful and impactfull things a lot of people love
+        5. practicality of business and commercial application [technology, business and humanity together]
+        6. ever growing ambition and vision and desire to grow and improve
+        7. part of something bigger than you, an emerging and revolutionary field, community and movement
+        8. life is short, control time, give all you have, minimize regrets
+        9. be good, love and enjoy life
+        10. people and the social/nimal and bio aspect is important, dopamine, endorphines, serotonine, oxytocin
+
+        an no matter what, existentil angust is part of life, you are not alone
+        
+    Thinking, working, guiding
+
+        - think before you act
+        - have clear and specific goals, only 1 at the time
+        - first principles thinking
+        - input - output - Step_by_Step approach
+        - scientific method of Hp, test, analyze and improve
+        - system thinking and mapping, worldview
+        - rooftop improvement and moonshots projects
+        - cause-effect relationship, root cause
+        - logic and reason in decision making
+        - 20/80 pareto
+        - find leverage and synergies
+        - scalability engineering 
+        - go straight to the point: how to double the impact? how to half the time?
+        - use feedback loops
+        - compounding
+        - synthesis and priorities
+        - endorphins, serotonins, dopamine, oxytocin
+        - stories and storytelling
+
+        - concentration and intensity, work hard every waking hour
+        - get important shit done, work effectively and smart
+        - substance over process
+        - keep it simple, clear, easy to understand
+        - Speed, speed, speed
+        - direction, direction, direction, laser focused on goals and milestones
+        - impact impact impact
+        - operational excellence
+        - clear standard of performance of who, what, why, how
+        
+        - to dos 
+        - time blocking
+        - batching
+        - Deep work
+        - deliberate practice
+        - maker's vs manager schedule
+        - checklists
+        - cutting and essentialism
+        - control time
+
+        - perseverance, this too shall pass
+        - positive mindset
+        - calm
+        - don't be an asshole
+        - give everything you have got
+        - be humble but hyper ambitious, non stop learning and networking
+        - know yourself
+        - meritocracy
+        - an ideology, a mission that form a glue
+
+    Building companies
+
+        - find good cofounders
+        - build a monopoly, find a secret insight, do new things, explore, pioneer future big thing, zero to one
+        - find and do something lots of people love, product-market fit, be customer centric
+        - build an insane product and experience
+        - obsess over talent and top level work and innovation
+        - write code, talk to users
+        - be Lean, be agile
+        - continuous improvement roof and moon 
+        - sell experience and solutions, not saddles
+        - build a flywheel
+        - protect the monopoly and build a competitive advantage 
+        - be in the right ecosystem 
+        - build a colture
+
+        - dream in years, plan in months/weeks, Ship daily.
+        - Prototype for 1x, Build for 10x, Engineer for 100x.
+        - What’s required to cut the timeline in ½?
+        - What needs to be done to double the impact?
+
+    AI Company Foundation
+
+        Hardware -> gpus, chips, robots
+        Software -> software, virtual worlds, ai products 
+
+        accelerate and advance stuff
+        tool that empowers other 
+        automate and robotize
+
+
+        Interesting Companies
+            
+            Nvidia              -> gaming, computing and AI      ->  
+              
+
+        Software robotics  
+            Bending Spoons      -> creator economy               -> 
+            Google              -> information                   -> organize the world information and make it available
+            Stripe              -> finance and business economy  -> build economic infrastructure for the internet, to increase its gdp 
+            Microsoft           -> computing, productivity       -> increase human-computer potential   
+
+        Pure research
+            DeepMind            -> AI                            -> Solving AGI   
+            OpenAi              -> AI                            -> Solving AGI
+
+        Phisical robotics
+            Tesla               -> Robotics and automation       -> accelerate clean energy and advent of robotics and ai
+            Waymo               -> Robotics and automation       -> future of mobility
+            Pony.ai                                             
+            Wing                -> Robotics and automation       -> future of delivery
+
+
+
+
+
+        Resources
+
+
+
+C - NOTES
+---------------------------
+
+    0) SILICON VALLEY DOJO
+
+        0. moving to silicon valley and best practices 
+
+            - https://siliconvalleydojo.substack.com/p/perche-i-top-vc-di-silicon-valley/comment/3731884
+            - https://siliconvalleydojo.substack.com/p/guida-pratica-per-chi-vuole-venire
+            - https://siliconvalleydojo.substack.com/p/la-vera-geografia-della-silicon-valley
+            - https://siliconvalleydojo.substack.com/p/un-breve-viaggio-nella-storia-della
+            - https://siliconvalleydojo.substack.com/p/silicon-valley-custom-and-practice
+            - https://siliconvalleydojo.substack.com/p/ma-venire-in-silicon-valley-serve#details
+
+        1. Fundraising and VC
+
+            strategy
+            - https://siliconvalleydojo.substack.com/p/come-raccogliere-capitali-da-vc-americani
+            - https://siliconvalleydojo.substack.com/p/come-impostare-il-processo-di-fundraising
+            - https://siliconvalleydojo.substack.com/p/come-conquistare-il-primo-meeting
+            - https://siliconvalleydojo.substack.com/p/come-prepararsi-al-primo-meeting
+            - https://siliconvalleydojo.substack.com/p/la-teoria-del-rischio-della-cipolla
+            - https://siliconvalleydojo.substack.com/p/investiamo-in-linee-non-in-punti
+            - https://siliconvalleydojo.substack.com/p/3-articoli-da-non-perdere-sul-fundraising
+
+            Understainding how vc works        
+            - https://siliconvalleydojo.substack.com/p/come-prendono-le-decisioni-i-vc-uno
+            - https://siliconvalleydojo.substack.com/p/come-funziona-il-processo-decisionale
+            - https://siliconvalleydojo.substack.com/p/5-libri-sul-venture-capital-per-comprenderne#details
+            - https://siliconvalleydojo.substack.com/p/il-lavoro-di-un-partner-in-un-fondo
+            - https://siliconvalleydojo.substack.com/p/di-cosa-si-occupa-un-associate-in
+
+            tools
+            - pitching: https://siliconvalleydojo.substack.com/p/perche-il-pitching-in-silicon-valley
+            - valuation: https://siliconvalleydojo.substack.com/p/quale-valutazione-dare-alla-propria
+            - safe: https://siliconvalleydojo.substack.com/p/safe-una-mini-guida-con-tutto-quello
+            - data room: https://siliconvalleydojo.substack.com/p/la-data-room-per-gli-investitori
+            - investor update: https://siliconvalleydojo.substack.com/p/cose-un-investor-update-e-come-strutturarlo
+            - cap table: https://siliconvalleydojo.substack.com/p/silicon-valley-custom-and-practice-6a5
+            
+        2. founders mindset / building startups
+
+            - https://siliconvalleydojo.substack.com/p/i-founder-mission-driven-cosa-sono
+            - https://siliconvalleydojo.substack.com/p/founder-eccezionali-quali-caratteristiche
+            - https://siliconvalleydojo.substack.com/p/lista-incompleta-degli-articoli-storici
+            - https://siliconvalleydojo.substack.com/p/dream-in-years-plan-in-months-evaluate
+            - https://siliconvalleydojo.substack.com/p/perche-investire-in-italiani-in-silicon
+
+            - https://siliconvalleydojo.substack.com/p/il-productmarket-fit-spiegato-bene
+            - https://siliconvalleydojo.substack.com/p/come-e-quando-misurare-il-product
+            - https://siliconvalleydojo.substack.com/p/perche-la-crescita-wow-week-over
+
+        3. Updates from the valley  
+            - https://siliconvalleydojo.substack.com/p/il-mercato-startup-usa-nel-q2-2022
+            - https://siliconvalleydojo.substack.com/p/bene-ma-non-benissimo-gli-investimenti
+            - https://siliconvalleydojo.substack.com/p/novita-da-yc-nuovo-batch-nuovo-deal
+            - https://siliconvalleydojo.substack.com/p/seed-revolution-cosa-cambia-in-silicon
+
+        4. stories and interviews 
+            - YC origins
+                - https://siliconvalleydojo.substack.com/p/y-combinator-le-origini
+
+            - Kong / Agusto Marietti e Marco Palladino
+                - https://siliconvalleydojo.substack.com/p/da-mashape-a-kong-la-storia-di-come
+                - https://siliconvalleydojo.substack.com/p/una-splendida-chiacchierata-con-marco#details
+                - https://siliconvalleydojo.substack.com/p/the-most-resilient-guy-in-my-portfolio/comments
+
+        - Amando biondi / Massimo Chieruzzi
+            - https://siliconvalleydojo.substack.com/p/fundraising-yc-e-dual-company-ita#details
+
+        - Team Silicon Dojo
+            - https://siliconvalleydojo.substack.com/p/silicon-valley-dojo-team-la-storia [parte 1 e 2]
+            - https://siliconvalleydojo.substack.com/p/silicon-valley-dojo-team-la-storia-a95 [parte 1, 2, 3, 4]
+            - https://siliconvalleydojo.substack.com/p/silicon-valley-dojo-team-la-storia-1bc
+
+
+
+            - lista persone chiave da seguire su Twitter
+            - lista libri storici
+
+    1) MOVING TO SILICON VALLEY + SET UP
+
+        - Silicon valley Dojo
+        - Alcorn low firm
+        - AngelStack
+        - https://stripe.com/en-it/atlas
+
+        - https://www.alcorn.law/wp-content/uploads/2020/09/Alcorn-Immigration-Options-for-Talent-Investors-Founders.pdf?7fd8bf&7fd8bf
+        - https://siliconvalleydojo.substack.com/p/perche-i-top-vc-di-silicon-valley/comment/3731884
+        - https://siliconvalleydojo.substack.com/p/guida-pratica-per-chi-vuole-venire
+        - https://siliconvalleydojo.substack.com/p/la-vera-geografia-della-silicon-valley
+        - https://siliconvalleydojo.substack.com/p/un-breve-viaggio-nella-storia-della
+        - https://siliconvalleydojo.substack.com/p/silicon-valley-custom-and-practice
+
+    2) FUNDRAISING AND VENTURE CAPITAL 
+
+        Notes:
+            
+
+            strategy and networking
+
+                - prepare vc Name and Surname lists that you want in cap table (stage, philosophy, field of specialization, reputation, help, startups funded)
+                - prepare list of direct connections 
+                - separate list into priority classes
+                - a. start getting all warm intros
+                - b. cold email other founders or their scouts for network and intros
+                - c. cold email them and start knowing them
+                - d. networking events, twitter
+                - follow up every 2 days with a shorter version, at least 2 times
+                - schedule meeting all at the same time in batches, start from low priority to high priority
+
+                - lines not dots
+                - snov.io to know who opened the email
+
+            
+            pitching and meetings
+
+                - short 30 min
+                - straight to the point, no prose and bullshit
+                - transparency and honesty
+                - listen actively
+                - have a clear goal in mind: feedback, show results, intro, direct fundraising
+
+                - brief presentations of participants
+                - pitch 10 min 
+                - q&A
+                - details of the round: timing, size and metrics, commitment, ask their timing and decisional process, next steps
+                - follow up with data room
+
+            
+            cold email:
+                - who you are, what have you done previously [estabilish competence]
+                - about the company [what we do]
+                - growth and progress [key metrics]
+                - Yes / no call to action to deep dive 
+
+            network:
+                - 
+
+
+            pitch
+
+                - a clear goal: show why your company will be a massive success
+                - focus on narrative and story flow
+                - short
+                - no block of text
+
+                key components 
+                    - problem -> solution
+                    - how good are we doing 
+                        - traction / mrr 
+                        - wow growth
+                        - key metrics of acquisition and retention and unit economics
+                        - execution
+                    - how big we will be
+                        - TAM, bottom up (user x revenue)
+                        - competive landscape and why you crush them
+                        - business model and unique advantage / competitive business strategy
+                    - mission / why
+                    - team
+                    - previously done onion stages 
+                    - info sulla raccolta e cap attuale
+                    - next 18 months milestones with the money / use of funds
+
+                - how strong is your startup today
+                    1) Solid Revenue
+                    2) Great Growth 
+                    3) Strong Unit Economics
+                    4) Fast Execution Speed
+                    5) Dedicated Customer Love 
+                -how big will it be tomorrow
+                    7) Market size is large (mandatory)
+                    8) Category tailwinds favor your growth
+                    9) Your unique business strategy 
+                    10) Relevant competition and why you'll beat them
+                    11) How you will Profitably Scale
+                -plus 
+                    12) Why you founded this startup
+                    13) Why you're the right founder at the right time
+                    14) Why your team is the best team in the space
+
+
+            data room
+                - pitch
+                - one pager 
+                - cap table 
+                - visura, statuto, patti, 
+                - bplan
+
+
+            investor update
+                - short, legible, simple, obvious
+                - helvetica, bold, 100+ points
+                - frequent 
+                - keep the same format
+                - straight to the point, transparency and honesty
+                - be visual
+
+                - key metrics: revenue, growth, burn, acquisition and retention, main costs
+                - requests
+                - execution updates 
+                
+
+        Resources
+
+            - Silicon valley Dojo
+            - YC on venture capital
+
+            Fundraising strategy
+                - https://siliconvalleydojo.substack.com/p/come-raccogliere-capitali-da-vc-americani
+                - https://siliconvalleydojo.substack.com/p/come-impostare-il-processo-di-fundraising
+                - https://siliconvalleydojo.substack.com/p/come-conquistare-il-primo-meeting
+                - https://siliconvalleydojo.substack.com/p/come-prepararsi-al-primo-meeting
+                - https://siliconvalleydojo.substack.com/p/la-teoria-del-rischio-della-cipolla
+                - https://siliconvalleydojo.substack.com/p/investiamo-in-linee-non-in-punti
+                - https://siliconvalleydojo.substack.com/p/3-articoli-da-non-perdere-sul-fundraising
+
+            how vc works        
+                - https://siliconvalleydojo.substack.com/p/come-prendono-le-decisioni-i-vc-uno
+                - https://siliconvalleydojo.substack.com/p/come-funziona-il-processo-decisionale
+
+            tools and concepts
+                - make a pitch - 
+                - make a onepager - 
+                - networking, pitching and meetings - 
+
+                - pitching - https://siliconvalleydojo.substack.com/p/perche-il-pitching-in-silicon-valley
+                - valuation - https://siliconvalleydojo.substack.com/p/quale-valutazione-dare-alla-propria
+                - safe -  https://siliconvalleydojo.substack.com/p/safe-una-mini-guida-con-tutto-quello
+                - data room - https://siliconvalleydojo.substack.com/p/la-data-room-per-gli-investitori
+                - investor update - https://siliconvalleydojo.substack.com/p/cose-un-investor-update-e-come-strutturarlo
+                - cap table - https://siliconvalleydojo.substack.com/p/silicon-valley-custom-and-practice-6a5
+
+
+
+
+
+
+
+
